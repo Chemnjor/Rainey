@@ -10,7 +10,7 @@ body {
   /* text-size: 7vh; */
 }
 img {
- 
+ border-radius: 14px;
   display: inline-block;
   width: 100%;
  
